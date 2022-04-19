@@ -1,4 +1,4 @@
-# Implement SVM
+# implementation of SVM
 
 In this assignment you will build an SVM classifier using the quadratic solver in Matlab.Use the Matlab quadratic solver quadprog.m function to write a function that solves the hard margin SVM primal and dual problems discussed in class. Check your function on the data sets given. 
 
